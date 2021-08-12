@@ -1,0 +1,247 @@
+D:\học tập\hệ quản trị csdl\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.exe.config
+D:\học tập\hệ quản trị csdl\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.exe
+D:\học tập\hệ quản trị csdl\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.pdb
+D:\học tập\hệ quản trị csdl\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\học tập\hệ quản trị csdl\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.fAccountProfile.resources
+D:\học tập\hệ quản trị csdl\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.fAdmin.resources
+D:\học tập\hệ quản trị csdl\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.fLogin.resources
+D:\học tập\hệ quản trị csdl\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.fTableManager.resources
+D:\học tập\hệ quản trị csdl\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.Properties.Resources.resources
+D:\học tập\hệ quản trị csdl\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.GenerateResource.cache
+D:\học tập\hệ quản trị csdl\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.CoreCompileInputs.cache
+D:\học tập\hệ quản trị csdl\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.CopyComplete
+D:\học tập\hệ quản trị csdl\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.exe
+D:\học tập\hệ quản trị csdl\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.pdb
+D:\học tập\hệ quản trị csdl\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\học tập\hệ quản trị csdl\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csprojAssemblyReference.cache
+D:\học tập\hệ quản trị csdl\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\học tập\hệ quản trị csdl\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\học tập\hệ quản trị csdl\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\học tập\hệ quản trị csdl\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.exe.config
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.exe
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.pdb
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.fAccountProfile.resources
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.fAdmin.resources
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.fLogin.resources
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.fTableManager.resources
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.Properties.Resources.resources
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.GenerateResource.cache
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.CoreCompileInputs.cache
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.CopyComplete
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.exe
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.pdb
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\EntityFramework.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\EntityFramework.SqlServer.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\EnvDTE.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\stdole.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.MSXML.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\EntityFramework.xml
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\EntityFramework.SqlServer.xml
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\RdlCompile.cache
+D:\SPKT\năm 2\HK 2\Hệ quản trị cơ sở dữ liệu\Thi cuối kỳ\Detail\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\RdlCompile.compiled
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.exe.config
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.exe
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.pdb
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\EntityFramework.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\EntityFramework.SqlServer.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\EnvDTE.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\stdole.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.MSXML.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\EntityFramework.xml
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\EntityFramework.SqlServer.xml
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csprojAssemblyReference.cache
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.fAccountProfile.resources
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.fAdmin.resources
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.fLogin.resources
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.fTableManager.resources
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.Properties.Resources.resources
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.GenerateResource.cache
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\RdlCompile.cache
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\RdlCompile.compiled
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.CoreCompileInputs.cache
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.CopyComplete
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.exe
+E:\Lập trình window\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.pdb
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.exe.config
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.exe
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\QuanLyQuanCaFe.pdb
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\EntityFramework.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\EntityFramework.SqlServer.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\EnvDTE.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\stdole.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\Microsoft.MSXML.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\EntityFramework.xml
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\EntityFramework.SqlServer.xml
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csprojAssemblyReference.cache
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.fAccountProfile.resources
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.fAdmin.resources
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.fLogin.resources
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.fTableManager.resources
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.Properties.Resources.resources
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.GenerateResource.cache
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.CoreCompileInputs.cache
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.csproj.CopyComplete
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.exe
+E:\DULIEUTAIVE\CK_HQT\QuanLyQuanCaFe\QuanLyQuanCaFe\obj\Debug\QuanLyQuanCaFe.pdb
